@@ -33,7 +33,7 @@ body {
   padding: 1.5rem;
   
 }
-.container > .card{
+.container > .card {
   border: 1px black solid;
   padding: 10px;
 }
